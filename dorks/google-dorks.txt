@@ -1,0 +1,26 @@
+site:codepad.co 
+site:scribd.com 
+site:npmjs.com 
+site:npm.runkit.com 
+site:libraries.io 
+site:ycombinator.com 
+site:coggle.it 
+site:papaly.com 
+site:google.com 
+site:trello.com 
+site:prezi.com 
+site:jsdelivr.net 
+site:codepen.io 
+site:codeshare.io 
+site:sharecode.io 
+site:pastebin.com 
+site:repl.it 
+site:productforums.google.com 
+site:gitter.im 
+site:bitbucket.org 
+site:*.atlassian.net 
+site:atlassian.net 
+inurl:gitlab 
+
+site:s3.amazonaws.com inurl:"company"
+site:zoom.us inurl:"company"

@@ -1,0 +1,39 @@
+Github Dorks:
+
+---------------------------------------
+Main material to study about it :
+https://orwaatyat.medium.com/your-full-map-to-github-recon-and-leaks-exposure-860c37ca2c82
+
+https://infosecwriteups.com/github-dork-553b7b84bcf4
+
+
+-------------
+Payloads :
+
+https://github.com/obheda12/GitDorker/blob/master/Dorks/alldorksv3
+https://github.com/techgaun/github-dorks/blob/master/github-dorks.txt
+
+Final list:
+cat alldorksv3 github-dorks.txt | wc -l
+602
+
+cat alldorksv3 github-dorks.txt | anew |wc -l
+529
+
+https://github.com/recon6536/payload/blob/main/github/github-dorks.txt
+
+
+
+
+Total list of dorks
+https://github.com/cipher387/Dorks-collections-list
+
+Automate Tools:
+https://github.com/obheda12/GitDorker
+
+Manual automation:
+https://github.com/vsec7/vsec7.github.io
+https://github.com/vsec7/gitdorkhelper
+
+
+scp root@172.105.62.198:/root/github/github-dorks-final.txt C:\Users\admin\Desktop\VPS
